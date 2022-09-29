@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0.01303">
+    <testcase classname="Zoho page login" name="Browser Launch to Zoho page" time="0.01303">
+        <skipped><![CDATA[Given user open the browser url.............................................undefined
+And user fill the email id..................................................undefined
+When user fill the password.................................................undefined
+And user click the checkbox.................................................undefined
+Then click the login button.................................................undefined
+]]></skipped>
+    </testcase>
+</testsuite>
